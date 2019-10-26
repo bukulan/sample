@@ -6,3 +6,5 @@ gitkraken
 text text
 
 add text for branch
+
+for branch2
